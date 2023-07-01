@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#name {
+    margin-left: 340px;
+    margin-top: 200px;
+    margin-bottom: 10px;
+    margin-right: 200px;
+    color: floralwhite;
+    text-transform: uppercase;
+}
+
+#surname {
+    margin-left: 340px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-right: 200px;
+    color: floralwhite;
+    text-transform: uppercase;
+}
+
+#age {
+    margin-left: 340px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-right: 200px;
+    color: floralwhite;
+    text-transform: uppercase;
+}
+
+#hobby {
+    margin-left: 340px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-right: 200px;
+    color: floralwhite;
+    text-transform: uppercase;
+}
+
+img{
+    width: 230px;
+    height: 230px;
+    border-radius: 20px;
+    margin-left: 800px;
+    margin-top: -500px;
+    margin-bottom: 20px;
+    margin-right: 200px;
+}
+
+#github{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin-left: 197px;
+    margin-top: 200px;
+    
+
+    
+}
